@@ -7,6 +7,6 @@
 * [tableView pullRefreshTriggerLoading:^{
 	//do something
 * }];
-*
+
 * [tableView autoTriggerRefreshLoading];
 *  
